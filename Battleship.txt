@@ -1,0 +1,20 @@
+ooooo
+ooooo
+ooooo
+ooooo
+
+
+
+
+
+
+
+
+1.import random
+2.ship 1x1 replace(0,(ship(1x1))),(random.randint)
+3.   input:coordinate:1.row: 2.column:
+replace(o,x)
+4.result:
+if hit:win
+if not hit:try again:
+5.game over
